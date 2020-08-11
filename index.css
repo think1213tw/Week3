@@ -314,6 +314,11 @@ img{
 }
 
 @media(max-width:767px){
+
+	.container{
+		max-width: 767px;
+	}
+	
 	.dessert{
 		margin-bottom: 30px
 	}
